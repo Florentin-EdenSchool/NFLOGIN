@@ -2,3 +2,6 @@ jul
 
 
 starfoulah
+
+
+KRAKENCDELO
